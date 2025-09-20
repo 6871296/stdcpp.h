@@ -1,2 +1,8 @@
-# stdcpp.h
-An stdc++.h file for computers that don't have it.
+# `stdc++.h`
+众所周知，`stdc++.h`可以直接导入C++的所有常用库。用途什么的我就不说了，就说一点。
+## 添加方法
+先把程序和`stdc++.h`放入同一文件夹内，然后导入：
+```cpp
+#include"stdc++.h"
+```
+之后没准会加安装程序吧。
